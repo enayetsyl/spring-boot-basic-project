@@ -314,7 +314,7 @@ public class RunController {
 
 ---
 
-## Step 8 — Database Schema (with field-by-field explanation)
+## Step 7 — Database Schema (with field-by-field explanation)
 
 **File:** `src/main/resources/schema.sql`
 
@@ -339,7 +339,7 @@ CREATE TABLE IF NOT EXISTS RUN (
 
 ---
 
-## Step 10 — Test Endpoints
+## Step 8 — Test Endpoints
 
 You can use **Postman** or **curl**.
 
